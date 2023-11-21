@@ -1,8 +1,13 @@
 public class Operadores {
     public static void main(String[] args){
-        String nomeCompleto = "Linguegem " + "Java";
+        int a, b;
 
-        System.out.println(nomeCompleto);
+        a = 10;
+        b = 12;
+
+        String resultado = a == b ? "verdadeiro" : "falso";
+
+        System.out.println(resultado);
 
     }
 }

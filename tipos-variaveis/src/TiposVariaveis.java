@@ -1,4 +1,4 @@
-public class TipoisVariaveis {
+public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         //tipos primitivos
         //String que representa texto na aplicação
